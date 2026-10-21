@@ -1,0 +1,22 @@
+:root {
+  --cozy-cream: #faf6f0;
+  --cozy-card-bg: #ffffff;
+  --cozy-sage: #6b8e6f;
+  --cozy-sage-hover: #557258;
+  --cozy-sage-light: #e7efe8;
+  --cozy-peach: #e99d79;
+  --cozy-peach-hover: #d78760;
+  --cozy-peach-light: #fdeee7;
+  --cozy-wood: #4a3b32;
+  --cozy-wood-muted: #7a695e;
+  --cozy-sand: #f2e8dc;
+  --cozy-yellow: #f3c969;
+  --cozy-yellow-light: #fef7e6;
+  --cozy-border: #eadbce;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: var(--cozy-cream);
+  color: var(--cozy-wood);
+}
