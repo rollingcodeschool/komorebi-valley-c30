@@ -30,3 +30,9 @@ body {
     background-color: var(--cozy-cream);
     border-bottom: 2px solid var(--cozy-wood);
 }
+
+.cozy-footer{
+    background-color: var(--cozy-wood-muted);
+    color: var(--cozy-sand);
+    
+}
