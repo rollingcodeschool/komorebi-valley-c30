@@ -20,3 +20,13 @@ body {
   background-color: var(--cozy-cream);
   color: var(--cozy-wood);
 }
+
+.brand-title{
+    color: var(--cozy-wood);
+    font-weight: 700;
+}
+
+.cozy-navbar{
+    background-color: var(--cozy-cream);
+    border-bottom: 2px solid var(--cozy-wood);
+}
