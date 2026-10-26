@@ -84,19 +84,19 @@ body {
 }
 
 /* iconos */
-.cozy-icon-gameplay{
-  color: var(--cozy-peach)
+.cozy-icon-gameplay {
+  color: var(--cozy-peach);
 }
 
-.cozy-color-muted{
-  color: var(--cozy-wood-muted)
+.cozy-color-muted {
+  color: var(--cozy-wood-muted);
 }
-.cozy-color-sage{
-  color: var(--cozy-sage)
+.cozy-color-sage {
+  color: var(--cozy-sage);
 }
 
-.border-preguntas{
-  border-color: var(--cozy-border) !important
+.border-preguntas {
+  border-color: var(--cozy-border) !important;
 }
 /* Badges Temáticos */
 .cozy-badge-pill {
@@ -342,12 +342,12 @@ body {
 }
 
 /* iconos */
-.cozy-icon-gameplay{
-  color: var(--cozy-peach)
+.cozy-icon-gameplay {
+  color: var(--cozy-peach);
 }
 
-.cozy-color-muted{
-  color: var(--cozy-wood-muted)
+.cozy-color-muted {
+  color: var(--cozy-wood-muted);
 }
 
 /* Badges Temáticos */
@@ -476,6 +476,14 @@ body {
   color: var(--cozy-wood-muted);
   line-height: 1.7;
 }
+/* estilos seccion prueba beta */
+.section-beta {
+  background-color: var(--cozy-peach-light);
+  border-color: var(--cozy-border) !important;
+}
+.cozy-peach-hover {
+  color: var(--cozy-peach-hover);
+}
 
 /* footer */
 .cozy-footer {
@@ -509,7 +517,7 @@ body {
   background-color: var(--cozy-peach);
 }
 
-.cozy-call-to-accion{
-  max-width: 580px; 
-  color: var(--cozy-wood-muted)
+.cozy-call-to-accion {
+  max-width: 580px;
+  color: var(--cozy-wood-muted);
 }
