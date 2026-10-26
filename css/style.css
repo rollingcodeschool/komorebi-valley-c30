@@ -508,3 +508,8 @@ body {
 .cozy-social-icon:hover {
   background-color: var(--cozy-peach);
 }
+
+.cozy-call-to-accion{
+  max-width: 580px; 
+  color: var(--cozy-wood-muted)
+}
